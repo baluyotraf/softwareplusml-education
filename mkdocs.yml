@@ -7,7 +7,7 @@ edit_uri: ""
 nav:
   - Home: index.md
   - Projects:
-    - ProjectA: projects/projects.md
+    - Neural Networks: projects/neural-networks.md
 
 plugins:
   - include-markdown
