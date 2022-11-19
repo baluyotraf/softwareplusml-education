@@ -1,24 +1,25 @@
-site_name: Software + ML
-site_url: https://softwareplus.ml
-repo_url: https://github.com/baluyotraf/softwareplusml
-repo_name: baluyotraf/softwareplusml
+site_name: Education @ Software + ML
+site_url: https://education.softwareplus.ml
+repo_url: https://github.com/baluyotraf/softwareplusml-education
+repo_name: baluyotraf/softwareplusml-education
 edit_uri: ""
 
 nav:
   - Home: index.md
-  - Blogs:
-      - Sample Blog: blogs/sample.md
-  - Projects: projects.md
-  - About: about.md
+  - Projects:
+    - ProjectA: projects/projects.md
+
+plugins:
+  - include-markdown
 
 theme:
   name: material
   language: en
   palette: 
-    primary: blue grey
+    primary: red
     accent: light blue
   icon:
-    logo: fontawesome/solid/robot
+    logo: fontawesome/solid/graduation-cap
     repo: fontawesome/brands/github
   features:
     - navigation.instant
