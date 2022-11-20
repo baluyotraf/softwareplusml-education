@@ -1,8 +1,8 @@
-# Education @ Software + Machine Learning
+# Education @ Software + Machine Learning | [ᐅ<sub>site</sub>][Site]
 
 ## Accessible Learning for All
 
-These are notebooks, tools, and reference projects created for various 
+These are notebooks, tools, and reference projects created for various
 courses, seminars, and tutorials.
 
 These should cover the following subjects:
@@ -17,3 +17,5 @@ These should cover the following subjects:
 
 At the moment, there are still projects being documented and organized so
 expect more projects to come.
+
+[Site]: https://education.softwareplus.ml/ (Site)
