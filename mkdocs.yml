@@ -1,8 +1,10 @@
 site_name: Education @ Software + ML
 site_url: https://education.softwareplus.ml
+site_description: Accessible Learning for All
 repo_url: https://github.com/baluyotraf/softwareplusml-education
 repo_name: baluyotraf/softwareplusml-education
 edit_uri: ""
+copyright: Copyright &copy; 2022 Raffaello Baluyot
 
 nav:
   - Home: index.md
@@ -11,11 +13,12 @@ nav:
 
 plugins:
   - include-markdown
+  - social
 
 theme:
   name: material
   language: en
-  palette: 
+  palette:
     primary: red
     accent: light blue
   icon:
@@ -29,11 +32,12 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-  
+
 extra:
   social:
-    - icon: fontawesome/brands/linkedin 
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/baluyotraf/
       name: baluyotraf
-
-copyright: Copyright &copy; 2022 Raffaello Baluyot
+    - icon: fontawesome/brands/github
+      link: https://github.com/baluyotraf
+      name: baluyotraf
