@@ -1,6 +1,6 @@
 site_name: Education @ Software + ML
 site_url: https://education.softwareplus.ml
-site_description: Stories and Codes from Research to Production
+site_description: Accessible Learning for All
 repo_url: https://github.com/baluyotraf/softwareplusml-education
 repo_name: baluyotraf/softwareplusml-education
 edit_uri: ""
@@ -10,9 +10,6 @@ nav:
   - Home: index.md
   - Projects:
     - Neural Networks: projects/neural-networks.md
-
-plugins:
-  - include-markdown
 
 plugins:
   - include-markdown
