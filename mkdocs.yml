@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - Projects:
     - Neural Networks: projects/neural-networks.md
+    - Python Basics: projects/python-basics.md
 
 plugins:
   - include-markdown
