@@ -1,3 +1,6 @@
 [submodule "projects/lecture-neural-networks"]
 	path = projects/lecture-neural-networks
 	url = git@github.com:baluyotraf/lecture-neural-networks.git
+[submodule "projects/lecture-python-basics"]
+	path = projects/lecture-python-basics
+	url = git@github.com:baluyotraf/lecture-python-basics.git
