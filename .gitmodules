@@ -4,3 +4,6 @@
 [submodule "projects/lecture-python-basics"]
 	path = projects/lecture-python-basics
 	url = git@github.com:baluyotraf/lecture-python-basics.git
+[submodule "projects/lecture-natural-language-processing"]
+	path = projects/lecture-natural-language-processing
+	url = git@github.com:baluyotraf/lecture-natural-language-processing.git

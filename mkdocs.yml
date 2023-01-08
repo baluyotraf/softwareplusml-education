@@ -9,8 +9,9 @@ copyright: Copyright &copy; 2022 Raffaello Baluyot
 nav:
   - Home: index.md
   - Projects:
-    - Neural Networks: projects/neural-networks.md
     - Python Basics: projects/python-basics.md
+    - Neural Networks: projects/neural-networks.md
+    - Natural Language Processing: projects/natural-language-processing.md
 
 plugins:
   - include-markdown
@@ -30,9 +31,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-
-extra_css:
-  - stylesheets/extra.css
 
 extra:
   social:
