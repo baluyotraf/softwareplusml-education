@@ -1,10 +1,10 @@
 site_name: Education @ Software + ML
-site_url: https://education.softwareplus.ml
+site_url: https://education.softwareplusml.baluyotraf.com
 site_description: Open and Accessible Educational Materials
 repo_url: https://github.com/baluyotraf/softwareplusml-education
 repo_name: baluyotraf/softwareplusml-education
 edit_uri: ""
-copyright: Copyright &copy; 2022 Raffaello Baluyot
+copyright: Copyright &copy; 2023 Raffaello Baluyot
 
 nav:
   - Home: index.md

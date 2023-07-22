@@ -23,4 +23,4 @@ expect more projects to come.
 
 
 [Code]: https://github.com/baluyotraf/softwareplusml-education (Code)
-[Software + ML]: https://education.softwareplus.ml/ (Website)
+[Software + ML]: https://education.softwareplusml.baluyotraf.com/ (Website)
