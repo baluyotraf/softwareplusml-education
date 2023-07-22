@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://education.softwareplusml.baluyotraf.com/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://education.softwareplusml.baluyotraf.com/projects/natural-language-processing/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://education.softwareplusml.baluyotraf.com/projects/neural-networks/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://education.softwareplusml.baluyotraf.com/projects/python-basics/</loc>
+         <lastmod>2023-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
